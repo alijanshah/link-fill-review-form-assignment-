@@ -1,0 +1,109 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  /* border: 1px solid red; */
+  width: 75%;
+  margin-top: 30px;
+  height: 100vh;
+  margin-left: 13%;
+}
+
+.p-details {
+  margin-top: 20px;
+  border-color: cyan;
+}
+.nav span {
+  margin-bottom: 40px;
+  border: 1px solid black;
+  /* box-shadow: 0.6px 0.1px 3.5px 0.3px; */
+  width: 70%;
+  height: 15px;
+  padding: 5px 70px;
+}
+.nav .span1 {
+  background-color: red;
+}
+.nav .span2 {
+  background-color: red;
+}
+.nav .span3 {
+  background-color: rgba(128, 128, 128, 0.624);
+}
+.personal-details {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+.personal-details input {
+  width: 70%;
+  padding: 3px 20px;
+  margin-bottom: 5px;
+}
+.last-name {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+.last-name input {
+  width: 70%;
+  padding: 3px 20px;
+  margin-bottom: 5px;
+}
+.cnic {
+  margin-top: 20px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.numbers {
+  margin-top: 10px;
+}
+.numbers .span1 {
+  border: 1px solid blue;
+  width: 5%;
+  height: 10px;
+}
+.social-link {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+.social-link {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+.social-link input {
+  width: 70%;
+  padding: 3px 20px;
+  margin-bottom: 5px;
+}
+.b-btn {
+  margin-top: 20px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.b-btn button {
+  width: 60px;
+  height: 60px;
+  border: 2px solid blue;
+  padding: 5px 10px;
+  /* color: black; */
+  background-color: blue;
+  border-radius: 100%;
+}
+.b-btn a {
+  color: white;
+}
+.cnic {
+  width: 100%;
+}
+.cnic .num-cnic {
+  width: 70%;
+  margin-top: 5px;
+  /* border: 1px solid red; */
+}
+.cnic .num-cnic input {
+  width: 5%;
+  height: 20px;
+  padding-left: 2px;
+  /* padding: 0px 15px; */
+}

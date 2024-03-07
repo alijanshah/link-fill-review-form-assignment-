@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  margin-top: 30px;
+  width: 65%;
+  height: 100vh;
+  /* border: 1px solid blue; */
+  /* align-items: center; */
+  margin-left: 15%;
+}
+.paragraph {
+  text-align: center;
+  margin-top: 15px;
+  padding: 5px;
+}
+.heading {
+  text-align: center;
+  margin-top: 20px;
+}
+.heading h4 {
+  margin: 15px;
+}
+.click-btn {
+  text-align: center;
+}
+.click-btn button {
+  width: 70px;
+  height: 70px;
+  border: 2px solid blue;
+  padding: 5px 15px;
+  background-color: blue;
+  border-radius: 100%;
+}
+.click-btn button a {
+  color: white;
+}

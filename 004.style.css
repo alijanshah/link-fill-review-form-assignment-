@@ -1,0 +1,76 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  /* border: 1px solid red; */
+  width: 75%;
+  margin-top: 30px;
+  height: 50vh;
+  margin-left: 13%;
+}
+.nav span {
+  margin-bottom: 40px;
+  border: 1px solid black;
+  /* box-shadow: 0.6px 0.1px 3.5px 0.3px; */
+  width: 70%;
+  height: 15px;
+  padding: 5px 70px;
+}
+.nav .span1 {
+  background-color: red;
+}
+.nav .span2 {
+  background-color: red;
+}
+.nav .span3 {
+  background-color: yellowgreen;
+}
+.your-Review {
+  width: 100%;
+  height: 100vh;
+  margin-top: 30px;
+}
+.select {
+  margin-top: 25px;
+  margin-left: 10px;
+}
+.select select {
+  width: 20%;
+  height: 18px;
+}
+.visit-box {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.comments {
+  margin-left: 10px;
+}
+.document {
+  /* margin-top: 15px; */
+  margin-left: 10px;
+  /* margin-bottom: 5px; */
+}
+.sign {
+  margin-left: 10px;
+  /* margin-bottom: 15px; */
+}
+
+.b-btn {
+  /* margin-top: 20px; */
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.b-btn button {
+  width: 60px;
+  height: 60px;
+  border: 2px solid blue;
+  padding: 5px 10px;
+  /* color: black; */
+  background-color: blue;
+  border-radius: 100%;
+}
+.b-btn a {
+  color: white;
+}
